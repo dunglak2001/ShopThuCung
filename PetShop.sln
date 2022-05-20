@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgocDungPetShop", "WebApplication1\NgocDungPetShop.csproj", "{272498F9-8438-4A73-96EA-2FDD4C8F7E5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{272498F9-8438-4A73-96EA-2FDD4C8F7E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272498F9-8438-4A73-96EA-2FDD4C8F7E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272498F9-8438-4A73-96EA-2FDD4C8F7E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272498F9-8438-4A73-96EA-2FDD4C8F7E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D31F2C8F-3B9C-4536-92B8-457DF39F23DC}
+	EndGlobalSection
+EndGlobal
